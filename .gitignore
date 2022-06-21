@@ -1,0 +1,5 @@
+./Data/*
+./.ipynb*
+./__pycache__
+./*.csv
+./*.csv
